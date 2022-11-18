@@ -1,2 +1,3 @@
-# fuzzy-adventure
-CS361 - Artifical Intelligence | Tic tac toe project with implemented min max algorithm and alpha beta pruning
+# Tic Tac Toe (Adviersal Search) 
+
+### Course #CS361 - Artificial Intelligence
